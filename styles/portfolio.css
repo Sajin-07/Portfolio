@@ -199,6 +199,7 @@ main ul li{
     color: #757575;
     font-size: 16px;
     font-weight: 400;
+   
  
 }
 .sh2{
@@ -218,4 +219,30 @@ main ul li{
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.about5{
+    /* background-color: green; */
+    max-width: 1140px;
+    margin: 130px auto 80px;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.f1{
+    display: inline-block;
+    max-width: 563px;
+    margin: 60px;
+ 
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+
 }
